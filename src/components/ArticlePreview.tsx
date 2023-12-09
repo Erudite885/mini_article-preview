@@ -50,7 +50,7 @@ const ArticlePreview: React.FC = () => {
             {showShareOptions && (
               <>
         <div className='hidden tooltip -right-16 -top-14 md:flex'> 
-          <div className='flex items-center gap-3 px-6 py-2'>
+          <div className='flex items-center gap-3 px-7 py-2'>
             <p className='uppercase text-zinc-400 tracking-widest font-sans text-sm md:text-xs '>Share</p> 
             <img src="./vite.svg" alt="" className='w-2 h-2' />
             <img src="./vite.svg" alt="" className='w-2 h-2' />
