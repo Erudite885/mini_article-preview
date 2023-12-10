@@ -1,5 +1,7 @@
 # Article Preview Component
 
+![desktop_image](../article-preview/public/article-prev_desktop.png)
+
 ## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
