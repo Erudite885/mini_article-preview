@@ -1,6 +1,6 @@
 # Article Preview Component
 
-![desktop_image](../article-preview/public/article-prev_desktop.png)
+![desktop_image](../public/article-prev_desktop.png)
 
 ## React + TypeScript + Vite
 
